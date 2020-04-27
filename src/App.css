@@ -1,0 +1,44 @@
+.newsImg {
+  width: 300px;
+  height: 200px;
+}
+.newsDiv {
+  width: 300px;
+  height: 700px;
+  background-color: rgba(0, 0, 0, 0.795);
+  color: white;
+  box-shadow: 5px 5px 15px 0 rgba(0, 0, 0, 0.644);
+  border-radius: 10px;
+}
+
+.myDiv {
+  float: left;
+  margin: 30px;
+  width: 350px;
+  height: 700px;
+}
+
+.newsTitle {
+  width: 300px;
+  line-height: 25px;
+  color: red;
+}
+
+.newsContent {
+  width: 300px;
+  height: 200px;
+}
+
+.myNav {
+  box-shadow: 5px 5px 15px 0 rgba(0, 0, 0, 0.644);
+  background-color: rgba(0, 0, 0, 0.719);
+}
+
+body {
+  background-image: url("./img/news4.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  position: relative;
+  background-position: center;
+}
